@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **???**
 
-- ⚡ Fun fact **I love to play Tennis**
+- ⚡ Fun fact **PLaying Dungeons**
 
 <h3 align="left">Connect with me:</h3>
 
