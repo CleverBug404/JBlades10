@@ -1,6 +1,6 @@
 ![MasterHead](https://imgs.search.brave.com/Z9CfLki1ArvA5CpSNXH8wxW9rQHpWCxHmGliZvaQapY/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMTEx/MTk4MC5qcGc)
 <h1 align="center">Hi 👋, I'm CleverBug</h1>
-<h3 align="center">A passionate Software developer from Colombia,</h3>
+<h3 align="center">A passionate Software developer from Albion,</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jblades10&show_icons=true&locale=en&layout=compact" alt="CleverBug" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jblades10&show_icons=true&locale=en" alt="CleverBug" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jblades10&" alt="CleverBug" /></p>
